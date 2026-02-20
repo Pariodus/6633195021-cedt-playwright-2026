@@ -1,0 +1,22 @@
+{
+  "name": "6633195021-cedt-playwright-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pariodus/6633195021-cedt-playwright-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pariodus/6633195021-cedt-playwright-2026/issues"
+  },
+  "homepage": "https://github.com/Pariodus/6633195021-cedt-playwright-2026#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
