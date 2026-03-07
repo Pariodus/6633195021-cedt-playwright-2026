@@ -17,6 +17,10 @@
   "homepage": "https://github.com/Pariodus/6633195021-cedt-playwright-2026#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
+    "@types/dotenv": "^6.1.1",
     "@types/node": "^25.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
   }
 }
