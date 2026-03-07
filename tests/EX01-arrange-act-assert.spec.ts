@@ -3,7 +3,7 @@ import { test, expect } from '@playwright/test';
 test('Verify login pass with valid user', async ({ page }) => {
 
   // Arrange
-  await page.goto('https://katalon-demo-cura.herokuapp.com');
+  await page.goto('/');
   await page.click('#btn-make-appointment');
 
   const username = 'John Doe';
